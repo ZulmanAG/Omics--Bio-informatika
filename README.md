@@ -4,7 +4,7 @@ This guide provides instructions to reproduce the results and environment for th
 
 ## Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://github.com/ZulmanAG/Omics--Bio-informatika/Omics -Bio informatika.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://github.com/Omics--Bio-informatika/Omics -Bio informatika.ipynb)
 
 **Note:** Please replace `YOUR_GITHUB_REPO_URL/your_notebook_name.ipynb` in the markdown above with the actual path to your notebook on GitHub after uploading it to make the 'Open in Colab' badge functional.
 
