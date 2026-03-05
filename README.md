@@ -2,6 +2,11 @@
 
 This guide provides instructions to reproduce the results and environment for the project "Harmonizing Multi-Omics Heterogeneity via Cross-Modal Attention and Sparse Gating".
 
+## Demo in HuggingFace
+
+[![Hugging Face](https://img.shields.io)](https://huggingface.co/spaces/ZulmanArif-Gani/Multi-Omics-Scanner-Predictive)
+
+
 ## Open in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZulmanAG/Omics--Bio-informatika/blob/main/Omics_Bio_informatika.ipynb) <!-- IMPORTANT: Replace 'your-username', 'your-repo', and 'your_notebook_name.ipynb' with your actual GitHub repository details and notebook filename -->
