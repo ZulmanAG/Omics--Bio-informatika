@@ -50,3 +50,10 @@ Once the environment is set up, you can run the Jupyter Notebook (`your_notebook
     ```
 
 2.  **Open the notebook:** Navigate to `your_notebook_name.ipynb` in your browser and open it. You can then run all cells sequentially to reproduce the analysis and results.
+
+
+## Citation
+Zulman Arif, G. (2026). Harmonizing Multi-Omics Heterogeneity via Cross-Modal Attention and Sparse Gating: A Competition-Driven Hybrid Framework for Predictive Biology. Zenodo. https://doi.org/10.5281/zenodo.18839073
+
+
+
