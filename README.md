@@ -4,7 +4,8 @@ This guide provides instructions to reproduce the results and environment for th
 
 ## Demo in HuggingFace
 
-[![Hugging Face](https://img.shields.io)](https://huggingface.co/spaces/ZulmanArif-Gani/Multi-Omics-Scanner-Predictive)
+[![Deploy on Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-on-spaces-md.svg)](https://huggingface.co/spaces/ZulmanArif-Gani/Multi-Omics-Scanner-Predictive)
+
 
 
 ## Open in Google Colab
